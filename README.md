@@ -1,7 +1,7 @@
 
 ## Office History and System Cleaner
 
-<img width="810" height="641" alt="image" src="https://github.com/user-attachments/assets/5687768c-193f-4dad-a541-93d1b225486d" />
+
 
 
 A robust and user-friendly Python-based cleaner application designed for Windows systems to clear Office application history, temporary files, browser caches, and other system junk. This tool aims to enhance privacy and free up disk space with a modern graphical interface.
@@ -28,8 +28,7 @@ A robust and user-friendly Python-based cleaner application designed for Windows
 
 ### Screenshots
 
-*(You can add screenshots here once your GUI is stable.)*
-Example:
+<img width="810" height="641" alt="image" src="https://github.com/user-attachments/assets/5687768c-193f-4dad-a541-93d1b225486d" />
 
 ### Installation
 
@@ -96,7 +95,6 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 
 ## Office Geçmiş ve Sistem Temizleyici
 
-<img width="810" height="641" alt="image" src="https://github.com/user-attachments/assets/f1c0e4db-0f2f-4546-94b1-96428b6a238a" />
 
 
 Windows sistemleri için tasarlanmış, Office uygulama geçmişini, geçici dosyaları, tarayıcı önbelleklerini ve diğer sistem çöplüklerini temizlemek için sağlam ve kullanıcı dostu Python tabanlı bir temizleyici uygulamasıdır. Bu araç, modern bir grafik arayüzle gizliliği artırmayı ve disk alanını boşaltmayı amaçlamaktadır.
@@ -123,8 +121,7 @@ Windows sistemleri için tasarlanmış, Office uygulama geçmişini, geçici dos
 
 ### Ekran Görüntüleri
 
-*(GUI'niz sabit olduğunda buraya ekran görüntüleri ekleyebilirsiniz.)*
-Örnek:
+<img width="810" height="641" alt="image" src="https://github.com/user-attachments/assets/5687768c-193f-4dad-a541-93d1b225486d" />
 
 ### Kurulum
 
